@@ -34,7 +34,7 @@ class Point implements Comparable<Point> {
     }
 }
 
-public class Main {
+public class CompareTo {
     public static void main(String[] args) {
         List<Point> shape = new ArrayList<>();
         shape.add(new Point(1, 1));
