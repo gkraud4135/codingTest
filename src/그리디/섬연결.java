@@ -2,7 +2,7 @@ package 그리디;
 
 import java.util.*;
 
-class Solution {
+class 섬연결 {
     public int[] parent;
     
     public int find(int a) {
